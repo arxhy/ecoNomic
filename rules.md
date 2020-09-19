@@ -143,3 +143,15 @@ If the rules are changed so that further play is impossible, or if the legality 
 **206:**
 
 Once adopted, all rules are to be written down in this file in this repository. They are to be sorted in ascending order by their assigned ordinal number.
+
+--
+
+**207:**
+
+If a player violates a rule, a vote is to be held deciding whether the player should be disqualified. The vote is to be finalized once either all eligible voters have voted, a majority of eligible voters have voted "yes," a majority of eligible voters have voted "no," or 24 hours have passed since the vote began. Once the vote finalizes, if the vote has received more "yes" votes than "no" votes, the player will cease to be a player.
+
+--
+
+**208:**
+
+All votes are to be held in the #poll channel on the "nomic to the death" Discord server that all players are in.
