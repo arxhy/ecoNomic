@@ -12,7 +12,7 @@ Initially, rules in the 100's are immutable and rules in the 200's are mutable. 
 
 **103:**
 
-A rule change is any of the following: (1) the enactment, repeal or amendment of a mutable rule; (2) the enactment, repeal or amendment an amendment, or (3) the transmutation of an immutable rule into a mutable rule or vice versa.
+A rule change is any of the following: (1) the enactment, repeal or amendment of a mutable rule; (2) the enactment, repeal or amendment of an amendment, or (3) the transmutation of an immutable rule into a mutable rule or vice versa.
 
 ---
 
