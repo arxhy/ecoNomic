@@ -1,6 +1,6 @@
 **101:**
 
-All players must always abide by all the rules then in effect, in the form in which they are then in effect. The rules in the Initial Set are in effect whenever a game begins. The Initial Set consists of Rules 101-118 (immutable) and 201-206 (mutable).
+All players must always abide by all the rules then in effect, in the form in which they are then in effect. The rules in the Initial Set are in effect whenever a game begins. The Initial Set consists of Rules 101-118 (immutable) and 201-209 (mutable).
 
 ---
 
@@ -154,4 +154,4 @@ If a player violates a rule, a vote is to be held deciding whether the player sh
 
 **208:**
 
-All votes are to be held in the #poll channel on the "nomic to the death" Discord server that all players are in.
+All votes are to be held in the #poll channel on the "nomic to the death" Discord server that all players are in. Players who wish to propose a rule change or other vote, but who are unable to post to the #poll channel, must post their proposal in the #proposals channel in this server. The proposal is to then be transferred to #poll within 24 hours by someone who is able to do so.
