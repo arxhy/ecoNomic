@@ -74,14 +74,6 @@ Other legal rule changes are to be be adopted if and only if the rule change rec
 
 ---
 
-**111:**
-
-*Mutable.*
-
-If and only if less than five rule changes are being voted on at a given time, any player may propose a rule change. A player whose rule change is currently being voted on, however, may not propose another rule change.
-
----
-
 **112:**
 
 *Immutable.*
@@ -231,6 +223,14 @@ The votes of players with active Blood Oaths have double strength.
 *Mutable.*
 
 Players may introduce Guidelines which are recommendations for other players to follow. Guidelines are stored in an analogous manner to rules and are kept historically. Guidelines function analogously to rules according to rules 103-107, 110, and 111. Guidelines take precedence according to their title, according to lexicographical order.
+
+---
+
+**(rule number unknown):**
+
+*Mutable.*
+
+If and only if less than five rule changes are being voted on at a given time, any player may propose a rule change. A player whose rule change is currently being voted on, however, may not propose another rule change.
 
 ---
 
