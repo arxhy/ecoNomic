@@ -74,14 +74,6 @@ Other legal rule changes are to be be adopted if and only if the rule change rec
 
 ---
 
-**110:**
-
-*Immutable.*
-
-A rule change's vote is finalized once either all eligible voters have voted, a majority of eligible voters have voted "yes," a majority of eligible voters have voted "no," or 24 hours have passed since the vote began.
-
----
-
 **111:**
 
 *Mutable.*
@@ -271,3 +263,11 @@ Any player joining the game has 0 points. This applies to players who leave and 
 *Mutable.*
 
 egg
+
+---
+
+**309:**
+
+*Mutable.*
+
+A rule change's vote is finalized once either all eligible voters have voted, a majority of eligible voters have voted "yes," a majority of eligible voters have voted "no," or 24 hours have passed since the vote began.
