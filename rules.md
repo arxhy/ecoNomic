@@ -226,14 +226,6 @@ Players may introduce Guidelines which are recommendations for other players to 
 
 ---
 
-**(rule number unknown):**
-
-*Mutable.*
-
-If and only if less than five rule changes are being voted on at a given time, any player may propose a rule change. A player whose rule change is currently being voted on, however, may not propose another rule change.
-
----
-
 **305:**
 
 *Mutable.*
