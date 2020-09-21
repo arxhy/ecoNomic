@@ -226,6 +226,14 @@ The votes of players with active Blood Oaths have double strength.
 
 ---
 
+**304:**
+
+*Mutable.*
+
+Players may introduce Guidelines which are recommendations for other players to follow. Guidelines are stored in an analogous manner to rules and are kept historically. Guidelines function analogously to rules according to rules 103-107, 110, and 111. Guidelines take precedence according to their title, according to lexicographical order.
+
+---
+
 **305:**
 
 *Mutable.*
