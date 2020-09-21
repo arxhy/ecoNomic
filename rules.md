@@ -207,3 +207,11 @@ If a player violates a rule, a vote is to be held deciding whether the player sh
 *Mutable.*
 
 All votes are to be held in the #poll channel on the "nomic to the death" Discord server that all players are in. Players who wish to propose a rule change or other vote, but who are unable to post to the #poll channel, must post their proposal in the #proposals channel in this server. The proposal is to then be transferred to #poll within 24 hours by someone who is able to do so.
+
+---
+
+**305:**
+
+*Mutable.*
+
+If no rule changes have been proposed in the last 7 days (168 hours), the player who proposed a rule change most recently wins the game.
