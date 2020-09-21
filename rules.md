@@ -230,4 +230,20 @@ The votes of players with active Blood Oaths have double strength.
 
 *Mutable.*
 
+If and only if less than five rule changes are being voted on at a given time, any player may propose a rule change. A player whose rule change is currently being voted on, however, may not propose another rule change.
+
+---
+
+**306:**
+
+*Mutable.*
+
 If no rule changes have been proposed in the last 7 days (168 hours), the player who proposed a rule change most recently wins the game.
+
+---
+
+**307:**
+
+*Mutable.*
+
+Any player joining the game has 0 points. This applies to players who leave and rejoin.
