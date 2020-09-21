@@ -263,3 +263,11 @@ If no rule changes have been proposed in the last 7 days (168 hours), the player
 *Mutable.*
 
 Any player joining the game has 0 points. This applies to players who leave and rejoin.
+
+---
+
+**308:**
+
+*Mutable.*
+
+egg
