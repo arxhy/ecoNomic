@@ -84,7 +84,7 @@ A rule change's vote is finalized once either all eligible voters have voted, a 
 
 **111:**
 
-*Immutable.*
+*Mutable.*
 
 If and only if less than five rule changes are being voted on at a given time, any player may propose a rule change. A player whose rule change is currently being voted on, however, may not propose another rule change.
 
@@ -207,6 +207,22 @@ If a player violates a rule, a vote is to be held deciding whether the player sh
 *Mutable.*
 
 All votes are to be held in the #poll channel on the "nomic to the death" Discord server that all players are in. Players who wish to propose a rule change or other vote, but who are unable to post to the #poll channel, must post their proposal in the #proposals channel in this server. The proposal is to then be transferred to #poll within 24 hours by someone who is able to do so.
+
+---
+
+**302:**
+
+*Mutable.*
+
+At any time, a player may declare a Blood Oath, which they are bound to obey. Each player may only have one active Blood Oath at a time.
+
+If a player's Blood Oath is paradoxical or unenforceable, or if it has been violated, any other player with a Blood Oath may start a vote to declare them Forsworn.
+
+If a majority of players with Blood Oaths agree, excluding the player being voted on, then that player becomes Forsworn, and their Blood Oaths are immediately nullified.
+
+A vote to declare a player Forsworn is finalized once either all eligible voters have voted, a majority of eligible voters have voted "yes," a majority of eligible voters have voted "no," or 24 hours have passed since the vote began.
+
+The votes of players with active Blood Oaths have double strength.
 
 ---
 
