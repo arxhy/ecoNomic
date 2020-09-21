@@ -210,6 +210,14 @@ All votes are to be held in the #poll channel on the "nomic to the death" Discor
 
 ---
 
+**301:**
+
+*Mutable.*
+
+Players are assigned as many points as a player's proposal gets positive votes. If the proposed rule passes, the number of points the player is assigned are doubled. Point totals above or below 0 must be kept track of via the player's nickname in Discord.
+
+---
+
 **302:**
 
 *Mutable.*
