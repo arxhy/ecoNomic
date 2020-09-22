@@ -54,16 +54,6 @@ No rule change may take effect earlier than the moment of the completion of the 
 
 ---
 
-**108:**
-
-*Immutable.*
-
-Each proposed rule change must be assigned an ordinal number and must be formally referred to by that number. The numbers must begin with 301, and each rule change proposed in the proper way must receive the next successive integer, whether or not the proposal is adopted.
-
-If a rule is repealed and reenacted, it is assigned the ordinal number of the proposal to reenact it. If a rule is amended or transmuted, it is assigned the ordinal number of the proposal to amend or transmute it. If an amendment is amended or repealed, it is assigned the ordinal number of the proposal to amend or repeal the amendment.
-
----
-
 **109:**
 
 *Immutable.*
@@ -263,3 +253,13 @@ egg
 *Mutable.*
 
 A rule change's vote is finalized once either all eligible voters have voted, a majority of eligible voters have voted "yes," a majority of eligible voters have voted "no," or 24 hours have passed since the vote began.
+
+---
+
+**311:**
+
+*Mutable.*
+
+Each proposed rule change must be assigned an ordinal number and must be formally referred to by that number. The numbers must begin with 301, and each rule change proposed in the proper way must receive the next successive integer, whether or not the proposal is adopted.
+
+If a rule is repealed and reenacted, it is assigned the ordinal number of the proposal to reenact it. If a rule is amended or transmuted, it is assigned the ordinal number of the proposal to amend or transmute it. If an amendment is amended or repealed, it is assigned the ordinal number of the proposal to amend or repeal the amendment.
