@@ -240,14 +240,6 @@ Any player joining the game has 0 points. This applies to players who leave and 
 
 ---
 
-**308:**
-
-*Mutable.*
-
-egg
-
----
-
 **309:**
 
 *Mutable.*
@@ -263,6 +255,26 @@ A rule change's vote is finalized once either all eligible voters have voted, a 
 Each proposed rule change must be assigned an ordinal number and must be formally referred to by that number. The numbers must begin with 301, and each rule change proposed in the proper way must receive the next successive integer, whether or not the proposal is adopted.
 
 If a rule is repealed and reenacted, it is assigned the ordinal number of the proposal to reenact it. If a rule is amended or transmuted, it is assigned the ordinal number of the proposal to amend or transmute it. If an amendment is amended or repealed, it is assigned the ordinal number of the proposal to amend or repeal the amendment.
+
+---
+
+**313:**
+
+*Mutable.*
+
+Once per proposal, a single player may challenge the player who suggested it to a duel for the ability to veto the proposal. The challenge must be made in general chat and the challenger may not participate in another challenge for the next Once per proposal, a single player may challenge the player who suggested it to duel the player who suggested it for the ability to veto the proposal. The challenge must be made in general chat and the challenger may not participate in another challenge for the next 48 hours. The contents of the duel will be a game agreed upon by both participants.
+
+The proponent of the proposal may choose another player to defend the proposal provided that player is willing.
+
+If the proponent does not respond or refuses to duel, the challenger may add, change, or remove up to three words in the proposal to change its effect. This change takes effect after voting or immediately upon refusal. This change must be grammatically correct and may not change any players status as players or winners of the nomic game.
+
+---
+
+**314:**
+
+*Immutable.*
+
+egg
 
 ---
 
