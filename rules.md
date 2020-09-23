@@ -216,14 +216,6 @@ Players may introduce Guidelines which are recommendations for other players to 
 
 ---
 
-**305:**
-
-*Mutable.*
-
-If and only if less than five rule changes are being voted on at a given time, any player may propose a rule change. A player whose rule change is currently being voted on, however, may not propose another rule change.
-
----
-
 **306:**
 
 *Mutable.*
@@ -283,3 +275,21 @@ egg
 *Mutable.*
 
 Players may trade points.
+
+---
+
+**316:**
+
+The concept of "culture" is introduced as a points system separate from the points system outlined by 301. Culture points, or just "culture", is awarded to players who are formally praised by other players, and subtracted from players who are formally chided by other players. 5 culture is awarded or subtracted per praise/chide. A player is awarded 100 culture points per every cultural guideline that they propose and which is subsequently passed.
+
+It is possible to achieve a Cultural Win by accumulating 10,000 culture.
+
+---
+
+**317:**
+
+1. A player may, at any time, propose a rule change, as long as they do not already have a proposal in the queue.
+2. Proposed rule changes are entered into the queue.
+3. The oldest proposed rule-changes in the queue are moved to the voting booth, as long as less than 5 proposals are in the voting booth.
+4. Rule changes in the voting booth are voted on in the manner described other rules
+5. After the vote has finalized, no matter the result of the vote, the proposal is removed from the voting booth.
