@@ -272,6 +272,8 @@ Players may trade points.
 
 **316:**
 
+*Mutable.*
+
 The concept of "culture" is introduced as a points system separate from the points system outlined by 301. Culture points, or just "culture", is awarded to players who are formally praised by other players, and subtracted from players who are formally chided by other players. 5 culture is awarded or subtracted per praise/chide. A player is awarded 100 culture points per every cultural guideline that they propose and which is subsequently passed.
 
 It is possible to achieve a Cultural Win by accumulating 10,000 culture.
@@ -279,6 +281,8 @@ It is possible to achieve a Cultural Win by accumulating 10,000 culture.
 ---
 
 **317:**
+
+*Mutable.*
 
 1. A player may, at any time, propose a rule change, as long as they do not already have a proposal in the queue.
 2. Proposed rule changes are entered into the queue.
