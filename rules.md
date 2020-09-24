@@ -176,14 +176,6 @@ If a player violates a rule, a vote is to be held deciding whether the player sh
 
 ---
 
-**208:**
-
-*Mutable.*
-
-All votes are to be held in the #poll channel on the "nomic to the death" Discord server that all players are in. Players who wish to propose a rule change or other vote, but who are unable to post to the #poll channel, must post their proposal in the #proposals channel in this server. The proposal is to then be transferred to #poll within 24 hours by someone who is able to do so.
-
----
-
 **301:**
 
 *Mutable.*
@@ -293,3 +285,11 @@ It is possible to achieve a Cultural Win by accumulating 10,000 culture.
 3. The oldest proposed rule-changes in the queue are moved to the voting booth, as long as less than 5 proposals are in the voting booth.
 4. Rule changes in the voting booth are voted on in the manner described other rules
 5. After the vote has finalized, no matter the result of the vote, the proposal is removed from the voting booth.
+
+---
+
+**324:**
+
+*Mutable.*
+
+All votes are to be held in the #poll channel on the "moon viewing ceremony" Discord server that all players are in. Players who wish to propose a rule change or other vote, but who are unable to post to the #poll channel, must post their proposal in the #proposals channel in this server. The proposal is to then be transferred to #poll within 24 hours by someone who is able to do so.
